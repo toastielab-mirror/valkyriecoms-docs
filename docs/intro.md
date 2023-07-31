@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
 slug: /
+title: Welcome
+tags: 
+  - Welcome!
 ---
 
 # What is valkyriecoms?
