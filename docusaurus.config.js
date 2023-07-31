@@ -57,7 +57,7 @@ const config = {
       navbar: {
         title: 'Valkyriecoms docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Bygul',
           src: 'img/Bygul.png',
         },
         items: [
