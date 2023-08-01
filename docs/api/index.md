@@ -12,5 +12,5 @@ slug: /api/index/
 
 |  Package | Description |
 |  --- | --- |
-|  [valkyrie-js](./valkyrie-js) |  |
+|  [valkyrie-js](./valkyrie-js.md) |  |
 
