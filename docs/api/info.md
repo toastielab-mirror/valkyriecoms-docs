@@ -4,6 +4,12 @@ title: info
 slug: /api
 ---
 
+:::caution
+
+This part is currently under construction so things may not be complete yet
+
+:::
+
 # About this section
 
 In this section of the documentation you will find the docs for the Valkyriecoms api which you can use by following the instructions on the [toastielab page](https://toastielab.dev/Valkyriecoms/-/packages/npm/valkyrie-js/0.0.24)
