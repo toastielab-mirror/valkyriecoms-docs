@@ -3,6 +3,12 @@ title: Exporting your profile
 description: A guide in my new Starlight docs site.
 ---
 
+:::caution
+
+This guide is outdated and is either going to be archived or re-written.
+
+:::
+
 # How to export your profile
 
 ### Here is the list of steps you need to do.
